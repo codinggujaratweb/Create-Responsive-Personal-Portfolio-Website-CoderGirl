@@ -1,4 +1,4 @@
-# 🎥 Responsive Draggable Carousel Slider
+# 🚀 Responsive Personal Portfolio Website
 ### 🚀 Create a stunning and fully responsive personal portfolio website to showcase your skills, projects, and achievements. Perfect for web developers, designers, and freelancers.
 
 ### 🎥 Video tutorial: [Watch Now](https://youtu.be/us8RVfR166Y)
